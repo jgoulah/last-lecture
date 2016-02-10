@@ -1,33 +1,40 @@
 build-lists: true
 
-# things, a title, a talk 
+# all the things 
 
 ### John Goulah (@johngoulah)
 
 ^ things, a title, a talk 
+^computers, crochet, and craft
 ^ all the things I didn't do and more 
+
+---
+
+![fit](images/loveetsy.jpg)
+
+^ so this is a weird thing because I actually love working here
+
+^ https://www.etsy.com/shop/bysol
 
 ---
 
 # Why??
 
-^ so this is a weird thing because I actually love working here
+^ also why do I want to leave a stable company ?
 
-^ why do I want to leave a stable company ?  
+^ here are three reasons...
 
 ---
 
 ![fit](images/miyamoto-musashi-.jpg)
 
-^ "Do not develop an attachment to any one weapon or any one school of fighting." Miyamoto Musashi a 17th century twin sword fighting Samurai.
+^ Miyamoto Musashi - a 17th century twin sword fighting Samurai.
+
+^ "Do not develop an attachment to any one weapon or any one school of fighting."
 
 ---
 
 ![fit](images/magic-happens.jpg)
-
----
-
-![fit](images/etski.png)
 
 ---
 
@@ -37,13 +44,29 @@ build-lists: true
 
 ---
 
+# Things I love
+
+---
+
+## Etski
+### (Rip)
+
+---
+
+![fit](images/etski.png)
+
+---
+
+
+## Keep it Weird
+
+---
+
 ![fit](images/chicken.jpg)
 
 ---
 
-![fit](images/eatsy-2010.jpg)
-
-^ sept 2010
+![fit](images/haircuts.jpg)
 
 ---
 
@@ -53,29 +76,39 @@ build-lists: true
 
 ---
 
+![fit](images/chadsanta.jpg)
+
+---
+
+![fit](images/dude.jpg)
+
+---
+
+## Eatsy!
+
+---
+
+![fit](images/eatsy-2010.jpg)
+
+^ sept 2010
+
+---
+
 ![fit](images/pancakes.jpg)
 
 ^ sept 2010
 
 ---
 
-![fit](images/hackathon-etsy.jpg)
+## Hack Week!
 
 ---
 
-![fit](images/hackathon-misc.jpg)
+![fit](images/hackweek1.png)
 
----
+^ Tuesday April 5th 2011
 
-![fit](images/craftfair.jpg)
-
----
-
-![fit](images/chadsanta.jpg)
-
----
-
-![fit](images/dude.jpg)
+^ exactly one year after i started
 
 ---
 
@@ -88,5 +121,9 @@ build-lists: true
 ---
 
 ![fit](images/elephant-rider.jpg)
+
+---
+
+![fit](images/craftfair.jpg)
 
 ---
