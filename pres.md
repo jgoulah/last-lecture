@@ -201,6 +201,8 @@ build-lists: true
 
 ^ this was an example of our monitors (oct 2010)
 
+^ sprouter - another piece of technology that we should pretend never happened
+
 ---
 
 # #push
@@ -259,10 +261,24 @@ build-lists: true
 
 ---
 
+![fit](images/hoodies.jpg)
+
+# "now is the best time to do engineering at etsy" - allspaw
+
+---
+
 ![fit](images/musiconetsy.jpg)
 
 ---
 
 ![fit](images/elephant-rider.jpg)
+
+---
+
+# Thanks!
+
+### jgoulah@gmail.com
+
+### @johngoulah
 
 ---
