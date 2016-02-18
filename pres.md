@@ -1,12 +1,8 @@
 build-lists: true
 
-# all the things 
+# an engineers history 
 
 ### John Goulah (@johngoulah)
-
-^ things, a title, a talk 
-^computers, crochet, and craft
-^ all the things I didn't do and more 
 
 ---
 
@@ -40,11 +36,15 @@ build-lists: true
 
 ![fit](images/short.jpg)
 
+^ have seen the company go from 80 to 800+
+
 ^ https://www.etsy.com/listing/215833878/spiegelau-ipa-glass-life-is-short-drink
 
 ---
 
 # Things I love
+
+### (about etsy)
 
 ---
 
@@ -57,8 +57,9 @@ build-lists: true
 
 ---
 
+![](images/stay-weird.jpg)
 
-## Keep it Weird
+^ https://www.etsy.com/listing/253588185/ms-bettys-original-bad-ass-scented-soy
 
 ---
 
@@ -94,6 +95,14 @@ build-lists: true
 
 ---
 
+![fit](images/eatsy-2010-2.jpg)
+
+---
+
+![fit](images/eatsy-2010-3.jpg)
+
+---
+
 ![fit](images/pancakes.jpg)
 
 ^ sept 2010
@@ -112,6 +121,134 @@ build-lists: true
 
 ---
 
+![fit](images/hackweek2.jpg)
+
+---
+
+![fit](images/hackweek3.jpg)
+
+---
+
+![fit](images/flute.jpg)
+
+---
+
+![fit](images/birds.jpg)
+
+---
+
+![](images/back-in-time.jpg)
+
+# Going back in time...
+
+^ https://www.etsy.com/listing/225128020/flux-capacitor-back-to-the-future-action
+
+---
+
+![fit](images/starpoli.jpg)
+
+---
+
+![fit](images/etsy-lamps.jpg)
+
+---
+
+![fit](images/oldoffice3.jpg)
+
+---
+
+![](videos/etsy-redecorating.mp4)
+
+---
+
+![fit](images/craftnight1.jpg)
+
+---
+
+![fit](images/craftnight2.jpg)
+
+---
+
+![fit](images/hackathon-etsy.jpg)
+
+---
+
+![fit](images/craftfair.jpg)
+
+---
+
+# Some Engineering History
+
+---
+
+## chbranch
+
+^ cli wrapper that did a bunch of crap (some put things in weird states)
+
+^ totally synchronous, can only load dev web site OR run tests
+
+---
+
+![left](images/buildbot.jpg)
+
+# Buildbot
+
+---
+
+![fit](images/buildbot-monitors.jpg)
+
+^ this was an example of our monitors (oct 2010)
+
+---
+
+# #push
+
+^ push was a thing but no topic or coordination, sometimes not even talking, just triggering pushes, mostly bot chatter
+
+---
+
+# developer vm's
+
+^ all the vm’s on one machine (100 vm’s) 
+
+^ hand rolled (create dns entries manually, run some janky script, do more manual stuff, etc)
+
+---
+
+![fit](images/evolution.jpg)
+
+# Slow Evolution
+
+^ https://www.etsy.com/listing/162827113/modern-abstract-painting-evolution
+
+---
+
+![fit](images/deploys-2011.png)
+
+---
+
+## Using #push topic to coordinate
+
+^ soon pushbot thanks to asm, just appeared one day
+
+---
+
+# Deleted buildbot tests
+
+^ introduced "hudson" (now jenkins) 
+
+--- 
+
+# supergrep
+
+^ first iteration, chad, etc
+
+---
+
+# SVN to Git
+
+---
+
 ![fit](images/devtools.jpg)
 
 ---
@@ -121,9 +258,5 @@ build-lists: true
 ---
 
 ![fit](images/elephant-rider.jpg)
-
----
-
-![fit](images/craftfair.jpg)
 
 ---
