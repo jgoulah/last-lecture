@@ -1,6 +1,8 @@
 build-lists: true
 
-# an engineers history 
+# things about etsy
+
+## an engineers history
 
 ### John Goulah (@johngoulah)
 
@@ -193,7 +195,7 @@ build-lists: true
 
 ![left](images/buildbot.jpg)
 
-# Buildbot
+# buildbot
 
 ---
 
@@ -207,7 +209,9 @@ build-lists: true
 
 # #push
 
-^ push was a thing but no topic or coordination, sometimes not even talking, just triggering pushes, mostly bot chatter
+^ push was a thing but only bots, the conversation was all in #hardware
+
+^ we didn't move to using push for talking to each other, or using the topic or pushbot until later
 
 ---
 
@@ -217,7 +221,7 @@ build-lists: true
 
 # developer vm's
 
-^ all the vm’s on one machine (100 vm’s) 
+^ all the vm’s on one machine (100 vm’s)
 
 ^ hand rolled (create dns entries manually, run some janky script, do more manual stuff, etc)
 
@@ -227,6 +231,8 @@ build-lists: true
 
 # Slow Evolution
 
+^ brought in to work on API but started working more and more on our deploys and tools
+
 ^ https://www.etsy.com/listing/162827113/modern-abstract-painting-evolution
 
 ---
@@ -235,17 +241,19 @@ build-lists: true
 
 ---
 
-## Using #push topic to coordinate
+## using #push topic to coordinate
+
+^ groups in the topic and status
 
 ^ soon pushbot thanks to asm, just appeared one day
 
 ---
 
-# Deleted buildbot tests
+# deleted buildbot tests
 
-^ introduced "hudson" (now jenkins) 
+^ introduced "hudson" (now jenkins)
 
---- 
+---
 
 # supergrep
 
@@ -257,17 +265,43 @@ build-lists: true
 
 ---
 
-![fit](images/devtools.jpg)
+# virtual madness
+
+^ first self serve internal cloud
 
 ---
 
-![fit](images/hoodies.jpg)
+# bobs
 
-# "now is the best time to do engineering at etsy" - allspaw
+^ on the autobots side the bobs were born
+
+^ bobs are the virtual containers that CI runs on
+
+---
+
+![fit](images/devtools.jpg)
+
+^ and dev tools manifested around this time
+
+---
+
+# dev proxy
+
+---
+
+![fit](images/db-copy-arch.jpg)
+
+---
+
+# market expansion plans
+
+^ 2012 (my attempt at the product world)
 
 ---
 
 ![fit](images/musiconetsy.jpg)
+
+^ wrote a detailed 13 page proposal if you are interested
 
 ---
 
