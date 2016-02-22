@@ -1,6 +1,6 @@
 build-lists: true
 
-# things about etsy
+# some things about etsy
 
 ## an engineers history
 
@@ -10,31 +10,9 @@ build-lists: true
 
 ![fit](images/loveetsy.jpg)
 
-^ so this is a weird thing because I actually love working here
+^ I actually love working here, love the people
 
 ^ https://www.etsy.com/shop/bysol
-
----
-
-# Why??
-
-^ also why do I want to leave a stable company ?
-
-^ here are three reasons...
-
----
-
-![fit](images/miyamoto-musashi-.jpg)
-
-^ Miyamoto Musashi - a 17th century twin sword fighting Samurai.
-
-^ "Do not develop an attachment to any one weapon or any one school of fighting."
-
----
-
-![](images/magic-happens.jpg)
-
-^ https://www.etsy.com/listing/190390239/the-magic-happens-outside-of-your
 
 ---
 
@@ -46,7 +24,23 @@ build-lists: true
 
 ---
 
-# Things I love
+![](images/magic-happens.jpg)
+
+^ https://www.etsy.com/listing/190390239/the-magic-happens-outside-of-your
+
+---
+
+![fit](images/miyamoto-musashi-.jpg)
+
+^ Miyamoto Musashi - a 17th century twin sword fighting Samurai.
+
+^ "Do not develop an attachment to any one weapon or any one school of fighting."
+
+^ move around to different projects/groups as much as possible
+
+---
+
+# Things I Love
 
 ### (about etsy)
 
@@ -109,7 +103,9 @@ build-lists: true
 
 ![fit](images/pancakes.jpg)
 
-^ sept 2010
+^ sept 2010, we made waffles
+
+^ it was the only time we ever made waffles
 
 ---
 
@@ -131,6 +127,8 @@ build-lists: true
 
 ![fit](images/hackweek3.jpg)
 
+^ hack week 2014
+
 ---
 
 ![fit](images/flute.jpg)
@@ -143,7 +141,7 @@ build-lists: true
 
 ![](images/back-in-time.jpg)
 
-# Going back in time...
+# Going Back in Time...
 
 ^ https://www.etsy.com/listing/225128020/flux-capacitor-back-to-the-future-action
 
@@ -197,6 +195,10 @@ build-lists: true
 
 # buildbot
 
+^ pretty much always failing 
+
+^ there was a command ,rebuildreds
+
 ---
 
 ![fit](images/buildbot-monitors.jpg)
@@ -239,6 +241,8 @@ build-lists: true
 
 ![fit](images/deploys-2011.png)
 
+^ suddenly things started clicking, heres how that happened
+
 ---
 
 ## using #push topic to coordinate
@@ -263,6 +267,10 @@ build-lists: true
 
 # SVN to Git
 
+^ took about 6 months - a lot of work and restructuring the repo and training the org
+
+^ this is what influenced using git rebase (rpull)
+
 ---
 
 # virtual madness
@@ -277,6 +285,8 @@ build-lists: true
 
 ^ bobs are the virtual containers that CI runs on
 
+^ gave us the ability to run many try jobs and parallelize builds
+
 ---
 
 ![fit](images/devtools.jpg)
@@ -285,11 +295,13 @@ build-lists: true
 
 ---
 
-# dev proxy
+# autobots
+
+![fit](images/autobots.png)
 
 ---
 
-![fit](images/db-copy-arch.jpg)
+# Random Projects
 
 ---
 
@@ -303,9 +315,61 @@ build-lists: true
 
 ^ wrote a detailed 13 page proposal if you are interested
 
+^ russ, hersh, tim holley, justin s.
+
+---
+
+# dev proxy
+
+---
+
+![fit](images/db-copy-arch.jpg)
+
+---
+
+# kegerator
+
+---
+
+# Parting Thoughts 
+
+---
+
+# delete a meeting
+
+^ yes, do it now, especially if its a 1:1 in a conference room
+
+---
+
+# flexible deadlines
+
+^ our technical debt limit is too high, we aren't factoring in cleanup time if we jump from project to project with tight deadlines
+
+---
+
+# move around a lot
+
+^ don't get too comfortable
+
+---
+
+# talk to people 
+
+^ eng should increase the rate of communication with other orgs and be proactive
+
 ---
 
 ![fit](images/elephant-rider.jpg)
+
+^ concept originated in happiness hypothesis by jonathon haidt
+
+^ humans have two sides, have to balance
+
+^ An emotional/automatic/irrational side (the elephant)
+
+^ An analytical/controlled/rational side (its rider).
+
+^ Chip & Dan Heath - Switch: How to Change When Change is Hard
 
 ---
 
