@@ -81,6 +81,10 @@ build-lists: true
 
 ![fit](images/dude.jpg)
 
+^ halloween 2010
+
+^ parties in office
+
 ---
 
 ## Eatsy!
@@ -247,7 +251,7 @@ build-lists: true
 
 ## using #push topic to coordinate
 
-^ groups in the topic and status
+^ push trains in the topic and status
 
 ^ soon pushbot thanks to asm, just appeared one day
 
@@ -276,6 +280,8 @@ build-lists: true
 # virtual madness
 
 ^ first self serve internal cloud
+
+^ across scalable cluster of physical hosts
 
 ---
 
@@ -329,6 +335,8 @@ build-lists: true
 
 # kegerator
 
+![fit](images/kegerator.jpg)
+
 ---
 
 # Parting Thoughts 
@@ -341,9 +349,11 @@ build-lists: true
 
 ---
 
-# flexible deadlines
+# technical debt 
 
 ^ our technical debt limit is too high, we aren't factoring in cleanup time if we jump from project to project with tight deadlines
+
+^ flexible deadlines
 
 ---
 
@@ -356,6 +366,12 @@ build-lists: true
 # talk to people 
 
 ^ eng should increase the rate of communication with other orgs and be proactive
+
+---
+
+# bike to work
+
+^ its awesome
 
 ---
 
