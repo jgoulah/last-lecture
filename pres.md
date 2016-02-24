@@ -20,7 +20,7 @@ build-lists: true
 
 ^ have seen the company go from 80 to 800+
 
-^ https://www.etsy.com/listing/215833878/spiegelau-ipa-glass-life-is-short-drink
+^ https://www.etsy.com/listing/191374575/snifter-glass-life-is-short-drink-good
 
 ---
 
@@ -110,6 +110,12 @@ build-lists: true
 ^ sept 2010, we made waffles
 
 ^ it was the only time we ever made waffles
+
+---
+
+# today
+
+![fit](images/eatsy-2016.jpg)
 
 ---
 
