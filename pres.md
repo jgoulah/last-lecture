@@ -359,7 +359,9 @@ build-lists: true
 
 ^ our technical debt limit is too high, we aren't factoring in cleanup time if we jump from project to project with tight deadlines
 
-^ flexible deadlines
+^ constant pressure to hurry reduces our ability to be proactive
+
+^ need flexible deadlines, good article by Kimber Lockhart on fostering sense of purpose over urgency
 
 ---
 
