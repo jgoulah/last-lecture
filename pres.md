@@ -20,6 +20,8 @@ build-lists: true
 
 ^ have seen the company go from 80 to 800+
 
+^ 10 years in NYC, 6 at etsy (means I really liked this job)
+
 ^ https://www.etsy.com/listing/191374575/snifter-glass-life-is-short-drink-good
 
 ---
@@ -97,10 +99,6 @@ build-lists: true
 
 ---
 
-![fit](images/eatsy-2010-2.jpg)
-
----
-
 ![fit](images/eatsy-2010-3.jpg)
 
 ---
@@ -117,9 +115,13 @@ build-lists: true
 
 ![fit](images/eatsy-2016.jpg)
 
+^ finely tuned machine
+
 ---
 
 ## Hack Week!
+
+^ things I love!
 
 ---
 
@@ -163,6 +165,8 @@ build-lists: true
 
 ![fit](images/etsy-lamps.jpg)
 
+^ no wooden floor, lamps everywhere, partitions
+
 ---
 
 ![fit](images/oldoffice3.jpg)
@@ -179,17 +183,25 @@ build-lists: true
 
 ![fit](images/craftnight2.jpg)
 
+^ random craft night
+
 ---
 
 ![fit](images/hackathon-etsy.jpg)
+
+^ hackathon
 
 ---
 
 ![fit](images/craftfair.jpg)
 
+^ craft fairs
+
 ---
 
 # Some Engineering History
+
+^ from an infrastructure perspective
 
 ---
 
@@ -205,7 +217,7 @@ build-lists: true
 
 # buildbot
 
-^ pretty much always failing 
+^ pretty much always failing
 
 ^ there was a command ,rebuildreds
 
@@ -229,6 +241,8 @@ build-lists: true
 
 ![fit](images/deployinator.jpg)
 
+^ early deployinator (invented by kastner, as a lot of this stuff was)
+
 ---
 
 # developer vm's
@@ -236,6 +250,10 @@ build-lists: true
 ^ all the vm’s on one machine (100 vm’s)
 
 ^ hand rolled (create dns entries manually, run some janky script, do more manual stuff, etc)
+
+^ all ran off chef solo, completely separate codebase (no shared code with production)
+
+^ home dir mounted on NFS mounted with root_squash option (which prevents you from using root)
 
 ---
 
@@ -257,7 +275,7 @@ build-lists: true
 
 ## using #push topic to coordinate
 
-^ push trains in the topic and status
+^ started w/ push trains in the topic and status
 
 ^ soon pushbot thanks to asm, just appeared one day
 
@@ -293,9 +311,9 @@ build-lists: true
 
 # bobs
 
-^ on the autobots side the bobs were born
+^ on the testing side the bobs were born
 
-^ bobs are the virtual containers that CI runs on
+^ bobs are the virtual LXC containers that CI runs on
 
 ^ gave us the ability to run many try jobs and parallelize builds
 
@@ -303,7 +321,17 @@ build-lists: true
 
 ![fit](images/devtools.jpg)
 
-^ and dev tools manifested around this time
+^ these are some of the tools that lead to the creation of dev tools
+
+^ along with a willingness to help unblock people from development hurdles
+
+---
+
+![fit](images/devtools-irc.png)
+
+^ sept 23 2011
+
+^ the team existed a bit before this, but this is when we standardized in a channel
 
 ---
 
@@ -311,9 +339,13 @@ build-lists: true
 
 ![fit](images/autobots.png)
 
+^ fun fact: irc channel used to be called #untangle
+
 ---
 
-# Random Projects
+# Other Random Projects
+
+^ not comprehensive, just a couple...
 
 ---
 
@@ -329,6 +361,8 @@ build-lists: true
 
 ^ russ, hersh, tim holley, justin s.
 
+^ was not green lighted (but vintage cars was)
+
 ---
 
 # dev proxy
@@ -342,6 +376,12 @@ build-lists: true
 # kegerator
 
 ![fit](images/kegerator.jpg)
+
+^ actually a revival of a kegerator that someone else bought that was out of commission
+
+^ the draft tower we bought didn't fit and facilities helped me build this wooden attachment
+
+^ thanks facilities!
 
 ---
 
@@ -367,13 +407,17 @@ build-lists: true
 
 # move around a lot
 
-^ don't get too comfortable
+^ don't get too comfortable, learn from people
 
 ---
 
 # talk to people 
 
+^ both inside and outside of the company
+
 ^ eng should increase the rate of communication with other orgs and be proactive
+
+^ meet sellers, go to a craft fair, or a local meetup
 
 ---
 
