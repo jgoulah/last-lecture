@@ -417,7 +417,7 @@ build-lists: true
 
 ^ eng should increase the rate of communication with other orgs and be proactive
 
-^ meet sellers, go to a craft fair, or a local meetup
+^ meet sellers, go to a craft fair, or a local meetup (host a home for the holidays)
 
 ---
 
