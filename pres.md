@@ -10,7 +10,9 @@ build-lists: true
 
 ![fit](images/loveetsy.jpg)
 
-^ I actually love working here, love the people
+^ best place i've worked (and have worked at quite a few), love the people, culture
+
+^ so why leave?
 
 ^ https://www.etsy.com/shop/bysol
 
@@ -28,6 +30,8 @@ build-lists: true
 
 ![](images/magic-happens.jpg)
 
+^ started wondering if I was too comfortable
+
 ^ https://www.etsy.com/listing/190390239/the-magic-happens-outside-of-your
 
 ---
@@ -39,6 +43,8 @@ build-lists: true
 ^ "Do not develop an attachment to any one weapon or any one school of fighting."
 
 ^ move around to different projects/groups as much as possible
+
+^ i have to see what else is out there, how the world has changed
 
 ---
 
@@ -103,19 +109,11 @@ build-lists: true
 
 ---
 
-![fit](images/pancakes.jpg)
-
-^ sept 2010, we made waffles
-
-^ it was the only time we ever made waffles
-
----
-
 # today
 
 ![fit](images/eatsy-2016.jpg)
 
-^ finely tuned machine
+^ finely tuned machine, thanks krose and team
 
 ---
 
@@ -171,9 +169,7 @@ build-lists: true
 
 ![fit](images/oldoffice3.jpg)
 
----
-
-![](videos/etsy-redecorating.mp4)
+^ (video at end)
 
 ---
 
@@ -281,31 +277,25 @@ build-lists: true
 
 ---
 
+# supergrep
+
+^ really early on, logs spewing garbage, first iteration, chad, etc
+
+---
+
 # deleted buildbot tests
 
 ^ introduced "hudson" (now jenkins)
 
 ---
 
-# supergrep
+# autobots
 
-^ first iteration, chad, etc
+![fit](images/autobots.png)
 
----
+^ autobots was born
 
-# SVN to Git
-
-^ took about 6 months - a lot of work and restructuring the repo and training the org
-
-^ this is what influenced using git rebase (rpull)
-
----
-
-# virtual madness
-
-^ first self serve internal cloud
-
-^ across scalable cluster of physical hosts
+^ fun fact: irc channel used to be called #untangle
 
 ---
 
@@ -321,9 +311,7 @@ build-lists: true
 
 ![fit](images/devtools.jpg)
 
-^ these are some of the tools that lead to the creation of dev tools
-
-^ along with a willingness to help unblock people from development hurdles
+^ wanted to unblock people from development hurdles
 
 ---
 
@@ -335,23 +323,47 @@ build-lists: true
 
 ---
 
-# autobots
+# SVN to Git
 
-![fit](images/autobots.png)
+![fit](images/github.png)
 
-^ fun fact: irc channel used to be called #untangle
+^ one of first big projects, took about 6 months - a lot of work and restructuring the repo and training the org
+
+^ this is what influenced using git rebase (rpull)
 
 ---
 
-# Other Random Projects
+# virtual madness
 
-^ not comprehensive, just a couple...
+^ first self serve internal cloud
+
+^ across scalable cluster of physical hosts
+
+---
+
+# dev proxy
+
+^ worked on a lot of database tooling, shard migrations, and schemanator for DDL changes
+
+^ dev proxy probably the most interesting
+
+---
+
+![fit](images/db-copy-arch.jpg)
+
+---
+
+# Music on Etsy
+
+^ still think this is a good idea
 
 ---
 
 # market expansion plans
 
 ^ 2012 (my attempt at the product world)
+
+^ cross company thing, had to write proposal and present slides to exec team
 
 ---
 
@@ -363,25 +375,7 @@ build-lists: true
 
 ^ was not green lighted (but vintage cars was)
 
----
-
-# dev proxy
-
----
-
-![fit](images/db-copy-arch.jpg)
-
----
-
-# kegerator
-
-![fit](images/kegerator.jpg)
-
-^ actually a revival of a kegerator that someone else bought that was out of commission
-
-^ the draft tower we bought didn't fit and facilities helped me build this wooden attachment
-
-^ thanks facilities!
+^ let me know when you want me to come back and work on music...
 
 ---
 
@@ -395,19 +389,29 @@ build-lists: true
 
 ---
 
-# technical debt 
+# sense of purpose
 
-^ our technical debt limit is too high, we aren't factoring in cleanup time if we jump from project to project with tight deadlines
+^ blog post by Kimber Lockhart on fostering sense of purpose over urgency
 
-^ constant pressure to hurry reduces our ability to be proactive
+^ deep understanding of the reasons behind our efforts and a desire to pour in time and energy because that purpose resonates with the impact we’d like to make on the world
 
-^ need flexible deadlines, good article by Kimber Lockhart on fostering sense of purpose over urgency
+^ constant pressure to hurry reduces our ability to be proactive or creative
+
+^ build in flexible time for cleanup, thinking, refreshing innovating
 
 ---
 
 # move around a lot
 
 ^ don't get too comfortable, learn from people
+
+---
+
+# take risks
+
+^ push yourself, don't settle for status quo
+
+^ as a group try new things, new tech, get comfortable with R&D style iteration (mesos, cloud, etc)
 
 ---
 
@@ -421,9 +425,13 @@ build-lists: true
 
 ---
 
+![](images/bike.jpg)
+
 # bike to work
 
 ^ its awesome
+
+^ https://www.etsy.com/listing/150264935/bike-new-york-city-print-bike-art-print
 
 ---
 
@@ -446,5 +454,13 @@ build-lists: true
 ### jgoulah@gmail.com
 
 ### @johngoulah
+
+---
+
+# bonus!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+---
+
+![](videos/etsy-redecorating.mp4)
 
 ---
